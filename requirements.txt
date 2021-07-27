@@ -10,7 +10,6 @@ numpy==1.19 # Powerful n-dimensional arrays and numerical computing tools
 pandas==1.2 # data analysis and manipulation tool
 pillow==8.1 # image manipulation library (used by matplotlib.image.imread)
 pip # Python's package-management system
-python==3.7 # Python! Not using latest version as some libs lack support
 python-graphviz # used for dot files
 scikit-learn==0.24 # machine learning library
 scipy==1.6 # scientific/technical computing library
