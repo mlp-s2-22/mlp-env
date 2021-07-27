@@ -10,7 +10,7 @@ dependencies:
   - joblib=0.14 # used to save/load Scikit-Learn models
   - jupyter=1.0 # to edit and run Jupyter notebooks
   - matplotlib=3.3 # nice plots.
-  - numpy=1.19 # Powerful n-dimensional arrays and numerical computing tools
+  - numpy=1.19.2 # Powerful n-dimensional arrays and numerical computing tools
   - pandas=1.2 # data analysis and manipulation tool
   - pillow=8.1 # image manipulation library (used by matplotlib.image.imread)
   - pip # Python's package-management system
