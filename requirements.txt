@@ -5,6 +5,7 @@ imbalanced-learn==0.8.0 # extends scikit-learn with samplers
 ipython==7.20 # a powerful Python shell
 joblib==0.14 # used to save/load Scikit-Learn models
 #jupyter==1.0 # to edit and run Jupyter notebooks
+kaggle==1.5.9 # used in week 2 for downloading data
 matplotlib==3.3 # nice plots.
 numpy==1.19.2 # Powerful n-dimensional arrays and numerical computing tools
 pandas==1.2 # data analysis and manipulation tool
