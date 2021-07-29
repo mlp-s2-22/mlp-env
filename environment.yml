@@ -19,7 +19,7 @@ dependencies:
   - python-graphviz # used for dot files
   - scikit-learn=0.24 # machine learning library
   - scipy=1.6 # scientific/technical computing library
-  - seaborn=0.9.0 # beautiful plots
+  - seaborn=0.11.1 # beautiful plots
   - tqdm=4.56 # a progress bar library
   - wheel # built-package format for pip
   - widgetsnbextension=3.5 # interactive HTML widgets for Jupyter notebooks
